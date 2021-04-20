@@ -48,7 +48,7 @@ let workoutSeed = [
         name: "Push Press",
         duration: 25,
         weight: 185,
-        reps: 8,
+        reps: 8,  
         sets: 4
       }
     ]
