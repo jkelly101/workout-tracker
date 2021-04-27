@@ -1,7 +1,7 @@
 let mongoose = require("mongoose");
 let db = require("../models");
-if (process.env.MONGO_ATLAS) {
-  mongoose.connect(process.env.MONGO_ATLAS, {
+if (process.env.MONGODB_URI) {
+  mongoose.connect(process.env.MONGODB_URI, {
     useNewUrlParser: true,
     useFindAndModify: false,
   });
