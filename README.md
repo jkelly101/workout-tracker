@@ -31,7 +31,7 @@ MongoDB and a Mongoose were utilized to add individual exercises to the database
 
 ## Link
 
-Link to the deployed site: [Workout Tracker](https://git.heroku.com/immense-chamber-66331.git)
+Link to the deployed site: [Workout Tracker](https://immense-chamber-66331.herokuapp.com/)
 
 ## Demo
 
