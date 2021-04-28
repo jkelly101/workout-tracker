@@ -2,13 +2,14 @@
 
 # Description
 
-The Workout Tracker is perfect for those looking to improve their fitness. This application allows the User to track both Cardio and Resistance Training. =
+The Workout Tracker is perfect for those looking to improve their fitness. This application allows the User to track both Cardio and Resistance Training.
 
 # Table of Contents
 
 - [Usage](#screenshots)
 - [Code](#code)
 - [Link](#link)
+- [Demo](#demo)
 - [Questions](#questions)
 - [License](#license)
 
